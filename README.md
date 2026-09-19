@@ -6,6 +6,6 @@
 ## Student Information
 - **Name:** 張佳瑜
 - **Student ID:** s1143309
+- [My GitHub](https://github.com/ZZhangJiayu)
 ## Repository Description
 This repository records my learning and assignments for the CS203A course.
-[My GitHub](https://github.com/ZZhangJiayu)
