@@ -1,7 +1,8 @@
 # Data Structures
 ## Course Information 
-- 11501_CS203A
-- Data Structures
+- **Course Title:** Data Structures
+- **Course Code:** CS203A
+- **Semester:** 11501
 ## Student Information
 - **Name:** 張佳瑜
 - **Student ID:** s1143309
